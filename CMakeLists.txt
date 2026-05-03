@@ -14,3 +14,8 @@ add_executable(01_game_loop
 add_executable(02_entity_update
     labs/02_entity_update/main.cpp
 )
+
+add_executable(03_state_machine
+    labs/03_state_machine/main.cpp
+)
+
