@@ -23,3 +23,8 @@ add_executable(04_input_commands
     labs/04_input_commands/main.cpp
 )
 
+add_executable(05_functions_and_separation
+    labs/05_functions_and_separation/main.cpp
+)
+
+
