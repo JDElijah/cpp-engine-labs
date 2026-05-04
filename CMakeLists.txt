@@ -19,3 +19,7 @@ add_executable(03_state_machine
     labs/03_state_machine/main.cpp
 )
 
+add_executable(04_input_commands 
+    labs/04_input_commands/main.cpp
+)
+
