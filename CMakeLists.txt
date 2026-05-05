@@ -35,6 +35,9 @@ add_executable(07_delta_time
     labs/07_delta_time/main.cpp
 )
 
+add_executable(08_fixed_timestep 
+    labs/08_fixed_timestep/main.cpp
+)
 
 
 
