@@ -31,5 +31,10 @@ add_executable(06_multiple_entities
     labs/06_multiple_entities/main.cpp
 )
 
+add_executable(07_delta_time
+    labs/07_delta_time/main.cpp
+)
+
+
 
 
