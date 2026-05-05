@@ -39,5 +39,10 @@ add_executable(08_fixed_timestep
     labs/08_fixed_timestep/main.cpp
 )
 
+add_executable(09_bounds_and_constraints
+    labs/09_bounds_and_constraints/main.cpp
+)
+
+
 
 
