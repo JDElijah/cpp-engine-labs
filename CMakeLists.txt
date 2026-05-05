@@ -27,4 +27,9 @@ add_executable(05_functions_and_separation
     labs/05_functions_and_separation/main.cpp
 )
 
+add_executable(06_multiple_entities
+    labs/06_multiple_entities/main.cpp
+)
+
+
 
