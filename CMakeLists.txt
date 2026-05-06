@@ -43,6 +43,10 @@ add_executable(09_bounds_and_constraints
     labs/09_bounds_and_constraints/main.cpp
 )
 
+add_executable(10_debug_output
+    labs/10_debug_output/main.cpp
+)
+
 
 
 
