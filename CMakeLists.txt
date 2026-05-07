@@ -47,6 +47,10 @@ add_executable(10_debug_output
     labs/10_debug_output/main.cpp
 )
 
+add_executable(11_stack_vs_heap
+    labs/11_stack_vs_heap/main.cpp
+)
+
 
 
 
