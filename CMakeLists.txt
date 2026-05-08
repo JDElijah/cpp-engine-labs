@@ -51,6 +51,10 @@ add_executable(11_stack_vs_heap
     labs/11_stack_vs_heap/main.cpp
 )
 
+add_executable(12_references_vs_pointers
+    labs/12_references_vs_pointers/main.cpp
+)
+
 
 
 
