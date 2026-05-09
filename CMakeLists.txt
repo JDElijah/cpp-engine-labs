@@ -59,4 +59,9 @@ add_executable(13_const_correctness
     labs/13_const_correctness/main.cpp
 )
 
+add_executable(14_raii
+    labs/14_raii/main.cpp
+)
+
+
 
