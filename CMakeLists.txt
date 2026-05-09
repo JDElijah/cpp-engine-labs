@@ -55,6 +55,8 @@ add_executable(12_references_vs_pointers
     labs/12_references_vs_pointers/main.cpp
 )
 
-
+add_executable(13_const_correctness
+    labs/13_const_correctness/main.cpp
+)
 
 

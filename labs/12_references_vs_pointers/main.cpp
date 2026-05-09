@@ -9,8 +9,8 @@ Core C++ concepts practiced:
 	- const references: use when reading an object without modifying it. 
 	- pointers: use when an object may or may not exist.
 	- nullptr: represents "no object"
-	- address-of operator &: gets teh address of an object 
-	- dereference operator *: access theobject a pointer points to
+	- address-of operator &: gets the address of an object 
+	- dereference operator *: access the object a pointer points to
 
 References are useful when the target must exist. 
 
