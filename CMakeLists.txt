@@ -63,5 +63,10 @@ add_executable(14_raii
     labs/14_raii/main.cpp
 )
 
+add_executable(15_constructors_destructors
+    labs/15_constructors_destructors/main.cpp
+)
+
+
 
 
