@@ -67,6 +67,10 @@ add_executable(15_constructors_destructors
     labs/15_constructors_destructors/main.cpp
 )
 
+add_executable(16_unique_ptr
+    labs/16_unique_ptr/main.cpp
+)
+
 
 
 
