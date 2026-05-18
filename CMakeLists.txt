@@ -71,6 +71,9 @@ add_executable(16_unique_ptr
     labs/16_unique_ptr/main.cpp
 )
 
+add_executable(17_shared_ptr_weak_ptr
+    labs/17_shared_ptr_weak_ptr/main.cpp
+)
 
 
 
