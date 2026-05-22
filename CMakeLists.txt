@@ -75,5 +75,8 @@ add_executable(17_shared_ptr_weak_ptr
     labs/17_shared_ptr_weak_ptr/main.cpp
 )
 
+add_executable(18_copy_vs_reference_semantics
+    labs/18_copy_vs_reference_semantics/main.cpp
+)
 
 
