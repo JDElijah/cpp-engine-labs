@@ -79,4 +79,9 @@ add_executable(18_copy_vs_reference_semantics
     labs/18_copy_vs_reference_semantics/main.cpp
 )
 
+add_executable(19_move_semantics
+    labs/19_move_semantics/main.cpp
+)
+
+
 
