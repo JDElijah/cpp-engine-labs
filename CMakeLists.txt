@@ -83,5 +83,10 @@ add_executable(19_move_semantics
     labs/19_move_semantics/main.cpp
 )
 
+add_executable(20_object_lifetime_bugs
+    labs/20_object_lifetime_bugs/main.cpp
+)
+
+
 
 
