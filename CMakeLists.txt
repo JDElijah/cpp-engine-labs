@@ -87,6 +87,8 @@ add_executable(20_object_lifetime_bugs
     labs/20_object_lifetime_bugs/main.cpp
 )
 
-
+add_executable(21_vector_deep_dive
+    labs/21_vector_deep_dive/main.cpp
+)
 
 
